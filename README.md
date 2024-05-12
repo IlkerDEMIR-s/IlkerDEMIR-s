@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm İlker DEMİR</h1>
-<h3 align="center">I'm a Software Engineer student at Maltepe University from Turkey 📖</h3>
+# 💫About Me :
+I'm a Software Engineer student at Maltepe University from Turkey 📖
+Aim: FullStack Developer🚩
+Hobbies: Science 🧪, Philosophy 🧠
 
 <h3 align="left">Languages and Tools:</h3>
 
