@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-I'm a Software Engineer student at Maltepe University from Turkey 📖
-Aim: FullStack Developer🚩
-Hobbies: Science 🧪, Philosophy 🧠
+<h3> align="left">I'm a Software Engineer student at Maltepe University from Turkey 📖 <h3>
+<h3> align="left">Aim: FullStack Developer🚩<h3> 
+<h3> align="left">Hobbies: Science 🧪, Philosophy 🧠</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
