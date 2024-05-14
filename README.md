@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-<h5 align="left">I'm a Software Engineer student at Maltepe University from Turkey 📖 <h5>
-<h5 align="left">Aim: FullStack Developer🚩<h5> 
-<h5 align="left">Hobbies: Science 🧪, Philosophy 🧠</h5>
+<h4 align="left">I'm a Software Engineer student at Maltepe University from Turkey 📖 <h4>
+<h4 align="left">Aim: FullStack Developer🚩<h4> 
+<h4 align="left">Hobbies: Science 🧪, Philosophy 🧠</h4>
 
 # 💻Tech Stack
 
